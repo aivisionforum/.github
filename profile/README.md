@@ -10,29 +10,15 @@ Visit the AI Vision Forum at:
 - [https://aivisionforum.org](https://aivisionforum.org)
 - [https://visionforum.ai](https://visionforum.ai)
 
-## Project Structure
+## Working Groups
 
-This workspace contains the following working group repositories (more coming soon):
+The AI Vision Forum is organized into specialized working groups, each focusing on critical aspects of AI development and governance:
 
-### 1. [aivisionforum.github.io](https://github.com/aivisionforum/aivisionforum.github.io)
-
-The main website built with Next.js, serving as the central hub for the AI Vision Forum community.
-
-**Quick Start:**
-
-```bash
-cd aivisionforum.github.io
-npm install
-npm run dev
-```
-
-Access at: [http://localhost:3000](http://localhost:3000)
-
-### 2. [ai-ethics-governance](https://github.com/aivisionforum/ai-ethics-governance)
+### 1. [AI Ethics & Governance](https://github.com/aivisionforum/ai-ethics-governance)
 
 Exploring Responsible AI Frameworks, Standards, Strategy, and International Cooperation. This repository contains research, documentation, and resources related to AI ethics and governance frameworks.
 
-### 3. [ai-global-digital-public-good](https://github.com/aivisionforum/ai-global-digital-public-good)
+### 2. [AI Global Digital Public Good](https://github.com/aivisionforum/ai-global-digital-public-good)
 
 Advancing Open, Inclusive, and Sustainable AI for Humanity. This repository focuses on building AI as a global digital public good, promoting accessibility and sustainability.
 
@@ -42,32 +28,30 @@ Additional working group repositories will be added as the AI Vision Forum expan
 
 ## Getting Started
 
-1. **Clone all repositories** (already done if you're reading this):
+To contribute to a working group:
+
+1. **Clone the repository you want to work on**:
 
    ```bash
-   git clone https://github.com/aivisionforum/aivisionforum.github.io.git
+   # For AI Ethics & Governance
    git clone https://github.com/aivisionforum/ai-ethics-governance.git
+   
+   # For AI Global Digital Public Good
    git clone https://github.com/aivisionforum/ai-global-digital-public-good.git
    ```
 
-2. **Install dependencies for the main website**:
+2. **Check the repository's README for specific contribution guidelines**
 
-   ```bash
-   cd aivisionforum.github.io
-   npm install
-   ```
+3. **Join the discussion** by opening issues or participating in existing conversations
 
-3. **Run the development server**:
+## Resources
 
-   ```bash
-   npm run dev
-   ```
-
-## Repository Links
-
-- **Main Website**: [https://github.com/aivisionforum/aivisionforum.github.io](https://github.com/aivisionforum/aivisionforum.github.io)
+### Working Group Repositories
 - **AI Ethics & Governance**: [https://github.com/aivisionforum/ai-ethics-governance](https://github.com/aivisionforum/ai-ethics-governance)
 - **AI Global Digital Public Good**: [https://github.com/aivisionforum/ai-global-digital-public-good](https://github.com/aivisionforum/ai-global-digital-public-good)
+
+### Website & Infrastructure
+- **Main Website Source**: [https://github.com/aivisionforum/aivisionforum.github.io](https://github.com/aivisionforum/aivisionforum.github.io)
 
 ## Contributing
 
