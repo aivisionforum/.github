@@ -14,7 +14,7 @@ Visit the AI Vision Forum at:
 
 This workspace contains the following working group repositories (more coming soon):
 
-### 1. [aivisionforum.github.io](./aivisionforum.github.io/)
+### 1. [aivisionforum.github.io](https://github.com/aivisionforum/aivisionforum.github.io)
 
 The main website built with Next.js, serving as the central hub for the AI Vision Forum community.
 
@@ -28,11 +28,11 @@ npm run dev
 
 Access at: [http://localhost:3000](http://localhost:3000)
 
-### 2. [ai-ethics-governance](./ai-ethics-governance/)
+### 2. [ai-ethics-governance](https://github.com/aivisionforum/ai-ethics-governance)
 
 Exploring Responsible AI Frameworks, Standards, Strategy, and International Cooperation. This repository contains research, documentation, and resources related to AI ethics and governance frameworks.
 
-### 3. [ai-global-digital-public-good](./ai-global-digital-public-good/)
+### 3. [ai-global-digital-public-good](https://github.com/aivisionforum/ai-global-digital-public-good)
 
 Advancing Open, Inclusive, and Sustainable AI for Humanity. This repository focuses on building AI as a global digital public good, promoting accessibility and sustainability.
 
