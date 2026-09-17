@@ -1,70 +1,48 @@
-# AI Vision Forum
+<p align="center">
+  <a href="https://visionforum.ai"><img src="https://raw.githubusercontent.com/aivisionforum/.github/main/profile/aivf-logo.svg" alt="AIVF — AI Vision Forum" width="420"></a>
+</p>
 
-Welcome to the AI Vision Forum - a collaborative initiative exploring the future of artificial intelligence through ethics, governance, and global public good perspectives.
+<p align="center">
+  <strong>Building a New Paradigm of Human-Machine Collaboration · 构建人机协同新范式</strong><br>
+  <a href="https://visionforum.ai">visionforum.ai</a>
+</p>
 
-## Website
+---
 
-Visit the AI Vision Forum at:
+The AI Vision Forum is a global platform for strategic dialogue on AI development, innovation and governance — committed to keeping human agency, transparency and ethics central to AI's societal integration.
 
-- [https://aivisionforum.github.io/](https://aivisionforum.github.io/)
-- [https://aivisionforum.org](https://aivisionforum.org)
-- [https://visionforum.ai](https://visionforum.ai)
+**Our pillars**: Human-Centered (AI should enhance and empower human capabilities, not replace them) · Transparency · Inclusivity · Collaboration.
 
-## Working Groups
+## Events 战略峰会
 
-The AI Vision Forum is organized into specialized working groups, each focusing on critical aspects of AI development and governance:
+| Event | When | Notes |
+|---|---|---|
+| **[AI Vision Forum Shenzhen 2026](https://shenzhen2026.visionforum.ai)** | **Oct 14–15, 2026** | Upcoming — invitation-only, 100–150 participants, co-located with GOSIM Shenzhen (Oct 16–17). Panels: Open Source in the Agent Era · AgentOS and the New Device Frontier · Agentic Software Engineering · The AI-Native Organization |
+| [AI Vision Forum Paris 2026](https://github.com/aivisionforum/ai-vision-forum-paris-2026) | May 4, 2026 | Produced the [Paris Initiative](https://github.com/aivisionforum/paris-2026-initiative) — a consensus statement on open, trusted, and sustainable agentic AI infrastructure |
+| [GOSIM AI Strategy Forum](https://github.com/aivisionforum/gosim-vision-forum-2025) | 2025, Paris | |
+| Global Digital Collaboration | 2025, Geneva | |
 
-### 1. [AI Ethics & Governance](https://github.com/aivisionforum/ai-ethics-governance)
+## Strategic initiatives 战略倡议
 
-Exploring Responsible AI Frameworks, Standards, Strategy, and International Cooperation. This repository contains research, documentation, and resources related to AI ethics and governance frameworks.
+Six working groups drive the forum's year-round work:
 
-### 2. [AI Global Digital Public Good](https://github.com/aivisionforum/ai-global-digital-public-good)
+1. **[Ethics & Governance](https://github.com/aivisionforum/ai-ethics-governance)** — responsible AI frameworks, standards, and international cooperation
+2. **[Global Digital Infrastructure](https://github.com/aivisionforum/ai-global-digital-public-good)** — open, inclusive, and sustainable AI as a global public good
+3. **[AI Maturity](https://github.com/aivisionforum/ai-maturity)** — the IEEE P3514 standard
+4. **AI & Education**
+5. **Human-Machine Collaboration**
+6. **Creative Intelligence**
 
-Advancing Open, Inclusive, and Sustainable AI for Humanity. This repository focuses on building AI as a global digital public good, promoting accessibility and sustainability.
+## Open source 开源
 
-### More Working Groups Coming Soon
+- **[forum-agent](https://github.com/aivisionforum/forum-agent)** — an open-source AI participant for any conference, forum, or working meeting: live diarized bilingual (中文/English) subtitles, quote-grounded insights, automatic minutes and reports. Fully local, Chatham House safe. Built by the forum, and a live demonstration of its theme — AI amplifying discussion while humans keep judgment.
+- **[Paris Initiative](https://github.com/aivisionforum/paris-2026-initiative)** — the consensus statement issued May 4, 2026.
+- **[visionforum.ai site sources](https://github.com/aivisionforum/aivisionforum.github.io)**
 
-Additional working group repositories will be added as the AI Vision Forum expands its collaborative efforts.
+The forum's outputs — statements, reports, standards work, and tools — are 100% open source.
 
-## Getting Started
+## Get involved 参与
 
-To contribute to a working group:
-
-1. **Clone the repository you want to work on**:
-
-   ```bash
-   # For AI Ethics & Governance
-   git clone https://github.com/aivisionforum/ai-ethics-governance.git
-   
-   # For AI Global Digital Public Good
-   git clone https://github.com/aivisionforum/ai-global-digital-public-good.git
-   ```
-
-2. **Check the repository's README for specific contribution guidelines**
-
-3. **Join the discussion** by opening issues or participating in existing conversations
-
-## Resources
-
-### Working Group Repositories
-- **AI Ethics & Governance**: [https://github.com/aivisionforum/ai-ethics-governance](https://github.com/aivisionforum/ai-ethics-governance)
-- **AI Global Digital Public Good**: [https://github.com/aivisionforum/ai-global-digital-public-good](https://github.com/aivisionforum/ai-global-digital-public-good)
-
-### Website & Infrastructure
-- **Main Website Source**: [https://github.com/aivisionforum/aivisionforum.github.io](https://github.com/aivisionforum/aivisionforum.github.io)
-
-## Contributing
-
-Each repository has its own contribution guidelines. Please refer to the individual README files in each repository for specific instructions.
-
-## License
-
-Please check individual repositories for their respective licenses.
-
-## Contact
-
-Visit the AI Vision Forum website for more information and updates:
-
-- [https://aivisionforum.github.io/](https://aivisionforum.github.io/)
-- [https://aivisionforum.org](https://aivisionforum.org)
-- [https://visionforum.ai](https://visionforum.ai)
+- Join the mailing list: [aivisionforum.groups.io](https://aivisionforum.groups.io/g/members/join)
+- Open an issue in any working-group repository
+- Visit [visionforum.ai](https://visionforum.ai) for events and updates

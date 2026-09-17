@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120" role="img" aria-label="AIVF — AI Vision Forum">
+  <rect width="420" height="120" rx="14" fill="#050506"/>
+  <g>
+    <circle cx="62" cy="60" r="34" fill="none" stroke="#7b9fff" stroke-width="1.6"/>
+    <line x1="62" y1="18" x2="62" y2="102" stroke="#7b9fff" stroke-opacity="0.35" stroke-width="1"/>
+    <line x1="20" y1="60" x2="104" y2="60" stroke="#7b9fff" stroke-opacity="0.35" stroke-width="1"/>
+    <text x="62" y="66" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" letter-spacing="1" fill="#7b9fff">AIVF</text>
+  </g>
+  <g>
+    <text x="122" y="57" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="600" fill="#f1f3f5">AI Vision Forum</text>
+    <text x="123" y="82" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="4" fill="#8e939d">AI 愿景论坛 · VISIONFORUM.AI</text>
+  </g>
+</svg>
