@@ -1,5 +1,11 @@
 <p align="center">
-  <a href="https://visionforum.ai"><img src="https://raw.githubusercontent.com/aivisionforum/.github/main/profile/aivf-logo.svg" alt="AIVF — AI Vision Forum" width="420"></a>
+  <a href="https://visionforum.ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aivisionforum/.github/main/profile/aivf-logo-transparent.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aivisionforum/.github/main/profile/aivf-logo-black-text-transparent.png">
+      <img src="https://raw.githubusercontent.com/aivisionforum/.github/main/profile/aivf-logo-black-text-transparent.png" alt="AIVF — AI Vision Forum · AI 愿景论坛" width="640">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
